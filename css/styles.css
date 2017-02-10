@@ -5,3 +5,12 @@ font-weight
 font-family
 font-size
 line-height
+
+.pull-left {
+  font-family: helvetica;
+}
+
+img {
+  width: 75%;
+  height:auto;
+}
